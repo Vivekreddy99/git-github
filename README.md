@@ -1,2 +1,2 @@
 # git-github
-respo no.1 
+this is for pratice
